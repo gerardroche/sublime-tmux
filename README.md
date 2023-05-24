@@ -16,6 +16,6 @@ Close Sublime Text then download or clone this repository to a directory named `
 * OSX: `git clone https://github.com/gerardroche/sublime-tmux.git ~/Library/Application\ Support/Sublime\ Text\ 3/Packages/Tmux`
 * Windows: `git clone https://github.com/gerardroche/sublime-tmux.git %APPDATA%\Sublime/ Text/ 3/Packages/Tmux`
 
-## LICENSE
+## License
 
-Released under the [BSD 3-Clause License](LICENSE).
+Released under the [GPL-3.0-or-later License](LICENSE).
